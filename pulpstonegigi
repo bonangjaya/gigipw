@@ -1,0 +1,71 @@
+gigi pulpstone-mikodemos
+Downloading http://pulpstone.pw/repo/chaoscalmer/brcm63xx/3.18.45/packages/Packages.gz.
+Updated list of available packages in /var/opkg-lists/pulpstone_packages.
+Downloading http://downloads.openwrt.org/chaos_calmer/15.05.1/brcm63xx/generic/packages/base/Packages.gz.
+Updated list of available packages in /var/opkg-lists/chaos_calmer_base.
+Downloading http://downloads.openwrt.org/chaos_calmer/15.05/brcm63xx/generic/packages/luci/Packages.gz.
+Updated list of available packages in /var/opkg-lists/chaos_calmer_luci.
+Downloading http://downloads.openwrt.org/chaos_calmer/15.05.1/brcm63xx/generic/packages/packages/Packages.gz.
+Updated list of available packages in /var/opkg-lists/chaos_calmer_packages.
+Downloading http://downloads.openwrt.org/chaos_calmer/15.05.1/brcm63xx/generic/packages/routing/Packages.gz.
+Updated list of available packages in /var/opkg-lists/chaos_calmer_routing.
+Downloading http://downloads.openwrt.org/chaos_calmer/15.05.1/brcm63xx/generic/packages/telephony/Packages.gz.
+Updated list of available packages in /var/opkg-lists/chaos_calmer_telephony.
+Downloading http://downloads.openwrt.org/chaos_calmer/15.05.1/brcm63xx/generic/packages/management/Packages.gz.
+Updated list of available packages in /var/opkg-lists/chaos_calmer_management.
+
+install paket pendukung pulpstone-mikodemos
+Installing bash (4.3.39-1) to root...
+Downloading http://downloads.openwrt.org/chaos_calmer/15.05.1/brcm63xx/generic/packages/packages/bash_4.3.39-1_brcm63xx.ipk.
+Package libc (0.9.33.2-1) installed in root is up to date.
+Installing screen (4.3.1-1) to root...
+Downloading http://downloads.openwrt.org/chaos_calmer/15.05.1/brcm63xx/generic/packages/packages/screen_4.3.1-1_brcm63xx.ipk.
+Installing openvpn-openssl (2.4.0-4-pulpstone) to root...
+Downloading http://pulpstone.pw/repo/chaoscalmer/brcm63xx/3.18.45/packages/openvpn-openssl_2.4.0-4-pulpstone_brcm63xx.ipk.
+Multiple packages (kmod-tun and kmod-tun) providing same name marked HOLD or PREFER. Using latest.
+Multiple packages (kmod-tun and kmod-tun) providing same name marked HOLD or PREFER. Using latest.
+Installing kmod-tun (3.18.45-1) to root...
+Downloading http://pulpstone.pw/repo/chaoscalmer/brcm63xx/3.18.45/packages/kmod-tun_3.18.45-1_brcm63xx.ipk.
+Installing liblzo (2.08-1) to root...
+Downloading http://downloads.openwrt.org/chaos_calmer/15.05.1/brcm63xx/generic/packages/base/liblzo_2.08-1_brcm63xx.ipk.
+Installing libopenssl (1.0.2j-1) to root...
+Downloading http://pulpstone.pw/repo/chaoscalmer/brcm63xx/3.18.45/packages/libopenssl_1.0.2j-1_brcm63xx.ipk.
+Configuring kmod-tun.
+Configuring bash.
+Configuring screen.
+Configuring liblzo.
+Configuring libopenssl.
+Configuring openvpn-openssl.
+Installing python-base (2.7.9-6) to root...
+Downloading http://downloads.openwrt.org/chaos_calmer/15.05.1/brcm63xx/generic/packages/packages/python-base_2.7.9-6_brcm63xx.ipk.
+Installing python-pyserial (2.7-1) to root...
+Downloading http://downloads.openwrt.org/chaos_calmer/15.05.1/brcm63xx/generic/packages/packages/python-pyserial_2.7-1_brcm63xx.ipk.
+Installing python-light (2.7.9-6) to root...
+Downloading http://downloads.openwrt.org/chaos_calmer/15.05.1/brcm63xx/generic/packages/packages/python-light_2.7.9-6_brcm63xx.ipk.
+Installing libffi (3.0.13-1) to root...
+Downloading http://downloads.openwrt.org/chaos_calmer/15.05.1/brcm63xx/generic/packages/packages/libffi_3.0.13-1_brcm63xx.ipk.
+Installing libbz2 (1.0.6-2) to root...
+Downloading http://downloads.openwrt.org/chaos_calmer/15.05.1/brcm63xx/generic/packages/base/libbz2_1.0.6-2_brcm63xx.ipk.
+Configuring python-base.
+Configuring libffi.
+Configuring libbz2.
+Configuring python-light.
+Configuring python-pyserial.
+Installing php5 (5.6.17-1) to root...
+Downloading http://downloads.openwrt.org/chaos_calmer/15.05.1/brcm63xx/generic/packages/packages/php5_5.6.17-1_brcm63xx.ipk.
+Installing libpcre (8.38-1) to root...
+Downloading http://downloads.openwrt.org/chaos_calmer/15.05.1/brcm63xx/generic/packages/packages/libpcre_8.38-1_brcm63xx.ipk.
+Installing libxml2 (2.9.2-3) to root...
+Downloading http://downloads.openwrt.org/chaos_calmer/15.05.1/brcm63xx/generic/packages/packages/libxml2_2.9.2-3_brcm63xx.ipk.
+Installing php5-cgi (5.6.17-1) to root...
+Downloading http://downloads.openwrt.org/chaos_calmer/15.05.1/brcm63xx/generic/packages/packages/php5-cgi_5.6.17-1_brcm63xx.ipk.
+Installing php5-mod-session (5.6.17-1) to root...
+Downloading http://downloads.openwrt.org/chaos_calmer/15.05.1/brcm63xx/generic/packages/packages/php5-mod-session_5.6.17-1_brcm63xx.ipk.
+Configuring libpcre.
+Configuring libxml2.
+Configuring php5.
+Configuring php5-mod-session.
+Configuring php5-cgi.
+Downloading http://downloads.openwrt.org/chaos_calmer/15.05.1/brcm63xx/generic/packages/packages/wget_1.17.1-1_brcm63xx.ipk
+
+
